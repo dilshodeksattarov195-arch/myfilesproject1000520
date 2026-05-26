@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionerocess",
+        "uuid": 2516800,
+        "checksum": "kdpi4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
